@@ -8,9 +8,9 @@ const Header = () => {
     const navbar = [
         {name:'Home',link:'/Home', id:1},
         {name:'shop',link:'/about', id:2},
-        {name:'detels',link:'/Home', id:3},
-        {name:'coupons',link:'/Home', id:4},
-        {name:'contact',link:'/Home', id:5}
+        {name:'detels',link:'/deelels', id:3},
+        {name:'coupons',link:'/compount', id:4},
+        {name:'contact',link:'/contact', id:5}
     ]
 
     return (

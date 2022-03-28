@@ -29,7 +29,7 @@ const Pricing = () => {
     return (
         <div className='bg-indigo-300 p-4'>
             <h1 className='text-6xl text-white font-mono'>Best deals of the twon</h1>
-            <p className='text-2xl font-bold text-d pt-3'>Lorem ipsum dolor sit amet consectetur adipisicing elit. </p>
+           
             <div className='grid md:grid-cols-3 gap-3 mt-8'>
             {
             pricingoption.map(option=><Pricingoption
